@@ -18,7 +18,7 @@ Page developed during Fullstack postgraduate classes taught by Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Zengen project" src=".github/preview.jpg" width="100%">
+  <img alt="Zengen project" src="preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
